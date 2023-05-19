@@ -1,0 +1,39 @@
+#######################################
+# Datatypes                 (KEYWORD1)
+#######################################
+ModuleStatus                KEYWORD1
+ComunicationModule          KEYWORD1
+
+#######################################
+# Methods and Functions     (KEYWORD2)
+#######################################
+loop			            KEYWORD2
+SendPayload		            KEYWORD2
+CommunicationConfirmation   KEYWORD2
+IndicateStatus              KEYWORD2
+GetStatusString             KEYWORD2
+InitModule                  KEYWORD2
+SendPayload                 KEYWORD2
+ResetModule                 KEYWORD2
+WaitForInitResponce         KEYWORD2
+WaitForCommandResponce      KEYWORD2
+ResponseConfig              KEYWORD2
+InitWaitFunction            KEYWORD2
+ModuleReadyFunction         KEYWORD2
+
+#######################################
+#  Constants                (LITERAL1)
+#######################################
+NRF_BAUD_RATE               LITERAL1
+RESET_WAIT                  LITERAL1
+INIT_WAIT_TIME_SEC          LITERAL1
+INIT_WAIT_TIME_SEC          LITERAL1
+CMD_WAIT_TIME_SEC           LITERAL1
+MAX_PAYLOAD_SIZE            LITERAL1
+INIT_FAILURE_COUNT          LITERAL1
+FAILURE_COUNT               LITERAL1
+THROUGH_COUNT               LITERAL1
+CONTINUATION                LITERAL1
+SUCCESS                     LITERAL1
+FAILURE                     LITERAL1
+TIMEOUT                     LITERAL1
