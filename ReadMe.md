@@ -19,11 +19,11 @@ sample_environ_sensorを使用する際には、BME280センサーが必要に�
 [https://github.com/Seeed-Studio/Grove_BME280](https://github.com/Seeed-Studio/Grove_BME280)<br>
 <br>
 動作確認環境
-M5stack basic
-ArduinoIDE 2.1.0
-board manager esp32 ver 2.0.8
-board : ESP32 Devmodule
-baud rate : 115200
+M5stack basic<br>
+ArduinoIDE 2.1.0<br>
+board manager esp32 ver 2.0.8<br>
+board : ESP32 Devmodule<br>
+baud rate : 115200<br>
 <br>
 受信動作、OTIDの取り出しについては未実装。<br>
 順次実装していく予定である。
