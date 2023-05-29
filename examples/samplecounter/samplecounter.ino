@@ -17,8 +17,8 @@
 #include "sipf_display.h"
 
 // 通信用の設定
-#define NRF_RESET_PIN 2         // 通信ボードのリセットピン 自社開発基板にあわせてある
-// #define NRF_RESET_PIN 5           // 通信ボードのリセットピン さくらのデフォルト設定
+//#define NRF_RESET_PIN 2         // 通信ボードのリセットピン 自社開発基板にあわせてある
+#define NRF_RESET_PIN 5           // 通信ボードのリセットピン さくらのデフォルト設定
 // 送信設定
 #define TAG_ID_1 1                // 送信タグ
 const uint8_t tag_id = TAG_ID_1;
